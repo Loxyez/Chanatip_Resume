@@ -18,9 +18,9 @@ export default function Hero(){
                         }/>
                     </p>
                     <div class="social-links">
-                        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        <a href="https://www.facebook.com/ChanatipDe/" class="facebook"><i class="bx bxl-facebook"></i></a>
+                        <a href="https://www.instagram.com/sir_chanatip/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/chanatip-deemee-6a7575230/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                     </div>
                 </div>
             </section>
