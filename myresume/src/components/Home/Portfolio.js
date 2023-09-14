@@ -74,6 +74,18 @@ export default function Portfolio(){
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                             <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/AlgorithmTrading.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>Algorithm Trading Certificate</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/AlgorithmTrading.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
                                 <img src="assets/img/portfolio/intern6.jpg" class="img-fluid" alt=""/>
                                 <div class="portfolio-info">
                                     <h4>SBITO: AI & Algorithm for trading</h4>
