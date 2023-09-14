@@ -14,7 +14,7 @@ export default function Resume(){
                         <h3 class="resume-title">Sumary</h3>
                         <div class="resume-item pb-0">
                         <h4>Chanatip Deemee</h4>
-                        <p><em>Innovative and deadline-driven Machine Learning with 1+ years of experience developing machine learning models from initial concept to a final, polished deliverable.</em></p>
+                        <p><em>Innovative and deadline-driven Machine Learning with 2+ years of experience developing machine learning models from initial concept to a final, polished deliverable.</em></p>
                         <ul>
                             <li>313/5 P.S.T Tower 45000, Roi-Et, Thailand</li>
                             <li>(+66) 081-3204-808</li>
@@ -24,7 +24,7 @@ export default function Resume(){
 
                         <h3 class="resume-title">Education</h3>
                         <div class="resume-item">
-                        <h4>Bachelor of Computer Science &amp; artificial intelligence</h4>
+                        <h4>•Bachelor of Science in Information and Communication Technology &amp; Computer Science</h4>
                         <br/>
                         <img src='assets/logo/logoict.png' width={'140'} height={'85'}/>
                         <br/>
@@ -62,8 +62,7 @@ export default function Resume(){
                             <p><em>National Central University, Zhongli, Taoyuan Taiwan</em></p>
                             <ul>
                                 <li>Research and develop the machine learning model for trading prediction in the stock market.</li>
-                                <li>Collaborate with the professor in Taiwan.</li>
-                                <li>Success profit late 3%+ in each day.</li>
+                                <li>Collaborate with the University in Taiwan.</li>
                             </ul>
                         </div>
                         <div class="resume-item">

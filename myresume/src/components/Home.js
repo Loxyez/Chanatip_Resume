@@ -4,6 +4,7 @@ import About from './Home/About';
 import Fact from './Home/Fact';
 import Skills from './Home/Skills';
 import Resume from './Home/Resume';
+import Portfolio from './Home/Portfolio';
 import Testimonials from './Home/Testimonials';
 
 export default function Home(){
@@ -22,7 +23,7 @@ export default function Home(){
                 {/* <!-- ======= Resume Section ======= --> */}
                 <Resume />
                 {/* <!-- ======= Portfolio Section ======= --> */}
-
+                <Portfolio />
                 {/* <!-- ======= Services Section ======= --> */}
 
                 {/* <!-- ======= Testimonials Section ======= --> */}
