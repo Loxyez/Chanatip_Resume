@@ -29,7 +29,7 @@ export default function Resume(){
                         <img src='assets/logo/logoict.png' width={'140'} height={'85'}/>
                         <br/>
                         <br/>
-                        <h5>2021 - Present</h5>
+                        <h5>2020 - Present</h5>
                         <p><em>Mahidol University, Salaya, Nakhon Pathom</em></p>
                         <p>This core track focuses on the use of several computer science theories to solve fundamental problems. In addition, students will study system related topics in computer science such as algorithms analysis, database design, embedded system, and computer graphics.</p>
                         </div>
