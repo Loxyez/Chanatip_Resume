@@ -1,4 +1,5 @@
 import Typewriter from 'typewriter-effect';
+import { Icon } from '@iconify/react';
 
 export default function Hero(){
     return(
@@ -21,6 +22,7 @@ export default function Hero(){
                         <a href="https://www.facebook.com/ChanatipDe/" class="facebook"><i class="bx bxl-facebook"></i></a>
                         <a href="https://www.instagram.com/sir_chanatip/" class="instagram"><i class="bx bxl-instagram"></i></a>
                         <a href="https://www.linkedin.com/in/chanatip-deemee-6a7575230/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        <a href="https://medium.com/@chanatip.dee" class="linkedin"><Icon icon="mingcute:medium-fill" /></a>
                     </div>
                 </div>
             </section>

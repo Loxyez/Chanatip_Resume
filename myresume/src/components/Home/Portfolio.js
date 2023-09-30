@@ -180,6 +180,18 @@ export default function Portfolio(){
                             </div>
                         </div>
 
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/guest_speaker.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>Business Industry: How Machine Learning Becomes a part of Business Industry</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/guest_speaker.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
 
                 </div>
