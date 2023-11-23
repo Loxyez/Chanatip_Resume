@@ -37,7 +37,22 @@ export default function Resume(){
                     <div class="col-lg-6">
                         <h3 class="resume-title">Professional Experience</h3>
                         <div class="resume-item">
-                            <h4>Senior Project Stock Prediction</h4> 
+                            <h4>Research Conferrence Presentation</h4>
+                            <br/>
+                            <img src='assets/logo/logoict.png' width={'140'} height={'85'}/>
+                            <img src='assets/logo/NCULogo.svg.png' width={'100'} height={'100'}/>
+                            <img src='assets/logo/Mae-Fah-Luang-University-2.png' width={'100'} height={'100'}/>
+                            <img src='assets/logo/CITT.png' width={'600'} height={'80'}/>
+                            <br/>
+                            <br/>
+                            <h5>2023</h5>
+                            <p><em>Mae Fah Luang, Thasud, Chiang Rai</em></p>
+                            <ul>
+                                <li>Presented my paper "Statistical Comparison of ARIMA Order Performance in the Stock Market" at the 7th International Conference on Information Technology (InCIT2023) at Mae Fah Luang University</li>
+                            </ul>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Senior Research in Stock Market Prediction</h4> 
                             <br/>
                             <img src='assets/logo/logoict.png' width={'140'} height={'85'}/>
                             <br/>
@@ -58,7 +73,7 @@ export default function Resume(){
                             <img src='assets/logo/NCULogo.svg.png' width={'100'} height={'100'}/>
                             <br/>
                             <br/>
-                            <h5>2023 - Present</h5>
+                            <h5>2023</h5>
                             <p><em>National Central University, Zhongli, Taoyuan Taiwan</em></p>
                             <ul>
                                 <li>Research and develop the machine learning model for trading prediction in the stock market.</li>
@@ -71,7 +86,7 @@ export default function Resume(){
                             <img src='assets/logo/Mahidol_U.png' width={'100'} height={'100'}/>
                             <br/> 
                             <br/> 
-                            <h5>2022 - Present</h5>
+                            <h5>2022 - 2023</h5>
                             <p><em>Mahidol University, Salaya, Nakhon Pathom </em></p>
                             <ul>
                                 <li>Analysis of the website's use and development of the backend for future users.</li>
@@ -84,7 +99,7 @@ export default function Resume(){
                             <img src='assets/logo/banner.png' width={'250'} height={'60'}/>
                             <br/> 
                             <br/> 
-                            <h5>2023 - Present</h5>
+                            <h5>2023</h5>
                             <p><em>Massachusetts Institute of Technology, Cambridge, US</em></p>
                             <ul>
                                 <li>Learn basic and intermediate-level deep learning from MIT online course.</li>

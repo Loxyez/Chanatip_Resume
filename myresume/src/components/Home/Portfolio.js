@@ -192,6 +192,66 @@ export default function Portfolio(){
                             </div>
                         </div>
 
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/61584.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>InCIT2023 Conference Presentation</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/61584.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/61590.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>InCIT2023 Conference Presentation</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/61590.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/61589.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>InCIT2023 Conference Presentation</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/61589.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/61592.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>Lecturer Assistant: Basic Absolute Python</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/61592.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/61591.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>Lecturer Assistant: Basic Absolute Python</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/61591.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
 
                 </div>

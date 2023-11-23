@@ -17,7 +17,7 @@ export default function Home(){
                 {/* <!-- ======= About Section ======= --> */}
                 <About />
                 {/* <!-- ======= Resume Section ======= --> */}
-                <Fact />
+                {/* <Fact /> */}
                 {/* <!-- ======= Skills Section ======= --> */}
                 <Skills />
                 {/* <!-- ======= Resume Section ======= --> */}
