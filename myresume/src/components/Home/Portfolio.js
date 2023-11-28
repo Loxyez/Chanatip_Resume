@@ -230,6 +230,18 @@ export default function Portfolio(){
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                             <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/1570951489_page-0001.jpg" class="img-fluid" alt=""/>
+                                <div class="portfolio-info">
+                                    <h4>InCIT2023 Conference Presentation</h4>
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/1570951489_page-0001.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                            <div class="portfolio-wrap">
                                 <img src="assets/img/portfolio/61592.jpg" class="img-fluid" alt=""/>
                                 <div class="portfolio-info">
                                     <h4>Lecturer Assistant: Basic Absolute Python</h4>
