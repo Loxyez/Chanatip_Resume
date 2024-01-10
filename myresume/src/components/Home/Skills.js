@@ -26,14 +26,14 @@ export default function Skills(){
                             <div class="progress">
                                 <span class="skill">C++</span>
                                 <div class="progress-bar-wrap">
-                                    <ProgressBar class="progress-bar" role="progressbar" completed={'Professtional'} barContainerClassName='containerBar' completedClassName='barCompleted'/>
+                                    <ProgressBar class="progress-bar" role="progressbar" completed={'Professional'} barContainerClassName='containerBar' completedClassName='barCompleted'/>
                                 </div>
                             </div>
 
                             <div class="progress">
                                 <span class="skill">Java</span>
                                 <div class="progress-bar-wrap">
-                                    <ProgressBar class="progress-bar" role="progressbar" completed={'Professtional'} barContainerClassName='containerBar' completedClassName='barCompleted'/>
+                                    <ProgressBar class="progress-bar" role="progressbar" completed={'Professional'} barContainerClassName='containerBar' completedClassName='barCompleted'/>
                                 </div>
                             </div>
 
