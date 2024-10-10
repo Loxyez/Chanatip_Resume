@@ -15,8 +15,8 @@ const Header = () => (
         <Typography variant='body2' color='textSecondary'>Base in Bangkok, TH</Typography>   
         <Box mt={2} display={"flex"} justifyContent={"center"} gap={2}>
             <IconButton href="https://www.linkedin.com/in/chanatip-deemee-6a7575230/"><LinkedIn/></IconButton>
-            <IconButton href="https://www.linkedin.com/in/chanatip-deemee-6a7575230/"><GitHub/></IconButton>
-            <IconButton href="https://www.linkedin.com/in/chanatip-deemee-6a7575230/"><Feed/></IconButton>
+            <IconButton href="https://github.com/Loxyez"><GitHub/></IconButton>
+            <IconButton href="https://medium.com/@chanatip.dee/about"><Feed/></IconButton>
         </Box>
 
         <Button variant="contained" startIcon={<Email />} sx={{ marginTop: 2 }} href="mailto:chanatip.deemee@gmail.com">
