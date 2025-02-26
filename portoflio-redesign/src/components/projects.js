@@ -1,8 +1,6 @@
 import { Card, CardContent, Typography, Grid, CardMedia, Chip, Box } from '@mui/material';
 
 export default function Projects() {
-
-  // Define your array of projects
   const projects = [
     {
       title: 'Statistical Comparison of ARIMA Order Performance in Stock Market',
@@ -26,43 +24,52 @@ export default function Projects() {
       title: 'One-Stop Service System',
       description: 'Developed a responsive one-stop service system to centralize customer support and service management. The system integrates multiple service modules, including inquiries, complaints, service requests, and status tracking, into a unified platform. Designed to enhance user experience, it provides both desktop and mobile-friendly interfaces, allowing customers to access services anytime and efficiently resolve their needs.',
       technologies: ['React', 'Node.js', 'Microsoft SQL', 'Material UI', 'REST APIs'],
-      imageUrl: 'assets/img/OneStopService.jpg', // Replace with a relevant image
+      imageUrl: 'assets/img/OneStopService.jpg',
     },
     {
       title: 'Comparison of Single-Variable and Multi-Variable Stock Price Prediction Performance',
       description: 'This research project explores the differences in prediction accuracy between single-variable and multi-variable models in stock price forecasting. The study compares models such as ARIMA for single-variable analysis and machine learning models like multiple linear regression and random forest for multi-variable analysis. The results highlight the impact of including additional variables like market trends, economic indicators, and company-specific data on forecast accuracy and performance.',
       technologies: ['ARIMA', 'Multiple Linear Regression', 'Random Forest', 'Python', 'Pandas'],
-      imageUrl: 'assets/img/StockPricePrediction.png', // Replace with a relevant image
+      imageUrl: 'assets/img/StockPricePrediction.png',
     }
-    
   ];
 
-  // Render your projects
   return (
-    <Box sx={{ padding: '16px', borderRadius: '8px', boxShadow: '0 4px 12px rgba(0, 0, 0, 0.1)', marginBottom: '24px' }}>
-      <Typography variant="h5" fontWeight="bold" mb={2}>
+    <Box sx={{ padding: 3, backgroundColor: '#f3f5f7', borderRadius: 2, mb: 4 }}>
+      <Typography variant="h4" fontWeight="bold" mb={3} color="primary">
         Projects
       </Typography>
-      <Grid container spacing={2}>  {/* Change the spacing to reduce the gap */}
+      <Grid container spacing={3}>
         {projects.map((project) => (
           <Grid item xs={12} md={6} key={project.title}>
-            <Card>
+            <Card 
+              sx={{ 
+                borderRadius: 2,
+                transition: 'box-shadow 0.3s ease',
+                '&:hover': { boxShadow: 6 },
+              }}
+            >
               <CardMedia
                 component="img"
-                height="140"
+                height="180"
                 image={project.imageUrl}
                 alt={project.title}
               />
               <CardContent>
-                <Typography gutterBottom variant="h6">
+                <Typography gutterBottom variant="h6" color="secondary">
                   {project.title}
                 </Typography>
-                <Typography variant="body2" color="textSecondary">
+                <Typography variant="body2" color="text.secondary" mb={2}>
                   {project.description}
                 </Typography>
-                <Box mt={2}>
+                <Box sx={{ display: 'flex', flexWrap: 'wrap' }}>
                   {project.technologies.map((tech) => (
-                    <Chip key={tech} label={tech} sx={{ marginRight: 1, marginBottom: 1 }} />
+                    <Chip 
+                      key={tech} 
+                      label={tech} 
+                      color="primary"
+                      sx={{ mr: 1, mb: 1 }}
+                    />
                   ))}
                 </Box>
               </CardContent>
